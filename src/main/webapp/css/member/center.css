@@ -1,0 +1,34 @@
+#leftnav {
+    height: calc(100% - 55px);
+    width: 210px;
+    margin-top: -20px;
+
+    background-color: #f8f8f8;
+    text-align: left;
+}
+
+a div {
+    display: inline-block;
+}
+
+a img {
+    width: 15px;
+    height: 15px;
+}
+
+.table {
+    width: calc(100% - 210px);
+}
+
+table {
+    height: 90px;
+    width: 420px;
+    margin: 0 auto;
+}
+td {
+    padding: 5px 5px;
+}
+
+div {
+    text-align: center;
+}

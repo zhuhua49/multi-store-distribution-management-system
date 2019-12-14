@@ -1,0 +1,72 @@
+.navbar {
+    margin-bottom: 0;
+}
+
+.talk_show {
+    overflow: auto;
+    margin-bottom: 50px;
+}
+
+.atalk {
+    margin: 10px;
+    margin-left: 300px;
+}
+
+.atalk span {
+    display: inline-block;
+    background: #0181cc;
+    border-radius: 10px;
+    color: #fff;
+    padding: 5px 10px;
+}
+.atalk #console {
+    display: inline-block;
+    background: #0181cc;
+    border-radius: 10px;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.btalk {
+    margin: 10px;
+    margin-right: 300px;
+    text-align: right;
+}
+
+.btalk span {
+    display: inline-block;
+    background: #4dc86f;
+    border-radius: 10px;
+    color: #fff;
+    padding: 5px 10px;
+}
+.btalk #console {
+    display: inline-block;
+    background: #4dc86f;
+    border-radius: 10px;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.navbar-left {
+    margin-left: 5px;
+}
+
+.form-control {
+    display: inline-block;
+    width: calc(100% - 70px);
+}
+
+.navbar-right {
+    margin-right: 5px;
+}
+
+.btn {
+    border-radius: 4px;
+    border-color: #4dc86f;
+    background-color: white;
+}
+
+.btn:hover {
+    background-color: #4dc86f;
+}

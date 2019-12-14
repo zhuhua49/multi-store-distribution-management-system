@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-size: 2em;
+}
+
+div {
+    display: inline-block;
+    border: 3px solid #ffffff;
+}
+div:hover {
+    border: 3px solid #70a8d8;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
